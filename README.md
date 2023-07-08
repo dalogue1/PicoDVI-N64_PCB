@@ -36,7 +36,7 @@ The features include:
 The HISPEEDIDO flex cable is available for $12 (free shipping) at  
 https://www.aliexpress.us/item/3256805571419579.html?spm=5261.ProductManageOnline.0.0.33212ddbdJ53Tz&gatewayAdapt=glo2usa4itemAdapt 
   
-This is created in KiCad 6.0.11 and the project files are included. I have not yet created the associated schematic but plan to make one.
+This project is created in KiCad 6.0.11 and the project files are included. I have not yet created the associated schematic but plan to make one.
 
 The zip for the Gerber Files is provided.
 
