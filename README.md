@@ -1,6 +1,5 @@
 # PicoDVI-N64_PCB
-Project creating a PCB to connect to the PicoDVI-N64 project.
-
+Project to create a PCB to connect the PicoDVI-N64 project by Konrad Beckmann.
 
 
 The current status of the board I have made is as follows.  I have created and checked the board many times.  I have ordered it and will be testing it when it arrives. 
