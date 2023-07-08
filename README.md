@@ -24,6 +24,8 @@ The features include:
     Connects PIF Control and Reset signals to gpio pins 20 and 21 via 47 ohm in-line resistors for the HISPEEDIDO flex cable
     
     Connects HDMI CEC signal to gpio pin 22 via a 0k resistor
+
+    Implements equivalent of PicoDVI-Sock to connect HDMI 
   
     Passes 5V power to the HDMI port via a 0k resistor
 
