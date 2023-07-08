@@ -9,20 +9,29 @@ It includes everything I know in a board that can be ordered from jlcpcb for $2 
 
 The features include: 
 
-    fits within the N64 without cutting using the 3-d printed adapter
+    Fits within the N64 without cutting using the 3-d printed adapter
     
-    usb port works without disconnecting power from the N64. (useful for software updates)
+    USB port works without disconnecting power from the N64. (useful for software updates)
     
-    works with the full or part flex cables from the n64adv2 open-source project
+    Works with the full or part flex cables from the n64adv2 open-source project
   
-    works with a flex cable from HISPEEDIDO on Ali Express ( https://www.aliexpress.us/item/3256805571419579.html?spm=5261.ProductManageOnline.0.0.33212ddbdJ53Tz&gatewayAdapt=glo2usa4itemAdapt )
+    Works with a flex cable from HISPEEDIDO on AliExpress (link below).
   
-    passes PIF and Reset and hdmi CEC signals to gpio pins via in-line resistors
+    Connects PIF and Reset signals to gpio pins 20 and 21 directly for the n64adv2 flex cable
+    
+    Connects PIF and Reset signals to gpio pins 20 and 21 via 47 ohm in-line resistors for the HISPEEDIDO flex cable
+    
+    Connects HDMI CEC signal to gpio pin 22 via a 0k resistor
   
-    passes 5V power to the HDMI port and pullup resistors to 5V are added for SCL and SDA
+    Passes 5V power to the HDMI port via a 0k resistor
+
+    2.2k pull-up resistors to 5V are added for HDMI SCL and SDA signals
   
-    all resistors and resistor networks are large enough for hand-soldering by DIYers
-  
+    All resistors and resistor networks are large enough for hand-soldering by DIYers
+
+The HISPEEDIDO flex cable is available for $12 (free shipping) at  
+https://www.aliexpress.us/item/3256805571419579.html?spm=5261.ProductManageOnline.0.0.33212ddbdJ53Tz&gatewayAdapt=glo2usa4itemAdapt 
+
   
 This is created in KiCad 6.0.11 and the project files are included.
 
