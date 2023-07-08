@@ -48,4 +48,6 @@ The GitHub for n64adv2_pcb is located at https://github.com/borti4938/n64adv2_pc
 
 ![PicoDVI-N64_PCB-Back](https://github.com/dalogue1/PicoDVI-N64_PCB/assets/133064876/9ae8b330-6932-4652-8f9d-c9026ffff4cd)
 
+Test fit of an early version of the board
+
 ![N64_PCB_Fit](https://github.com/dalogue1/PicoDVI-N64_PCB/assets/133064876/a9b3f396-81b1-41a5-92eb-939396d21952)
