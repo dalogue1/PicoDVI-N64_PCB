@@ -1,5 +1,5 @@
 # PicoDVI-N64_PCB
-Project to create a PCB to connect the PicoDVI-N64 project by Konrad Beckmann.
+Project to create a PCB to connect the PicoDVI-N64 project by Konrad Beckmann https://github.com/kbeckmann/PicoDVI-N64.
 
 
 
