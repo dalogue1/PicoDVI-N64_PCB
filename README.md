@@ -25,8 +25,7 @@ The features include:
     
     Connects HDMI CEC signal to gpio pin 22 via a 0k resistor
 
-    Implements equivalent of PicoDVI-Sock by Wren6991 to connect HDMI 
-  
+    Implements equivalent of PicoDVI-Sock by Wren6991 to connect HDMI  
     Passes 5V power to the HDMI port via a 0k resistor
 
     Added 2.2k pull-up resistors to 5V for HDMI SCL and SDA signals
@@ -39,6 +38,8 @@ https://www.aliexpress.us/item/3256805571419579.html?spm=5261.ProductManageOnlin
 This is created in KiCad 6.0.11 and the project files are included. I have not yet created the associated schematic but plan to make one.
 
 The zip for the Gerber Files is provided.
+
+The GitHub for PicoDVI-Sock is located at https://github.com/Wren6991/Pico-DVI-Sock
 
 ![PicoDVI-N64_PCB-Front](https://github.com/dalogue1/PicoDVI-N64_PCB/assets/133064876/229bf70d-1fcd-4e96-a488-81059325d73f)
 
