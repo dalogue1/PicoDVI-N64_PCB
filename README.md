@@ -9,15 +9,22 @@ It includes everything I know in a board that can be ordered from jlcpcb for $2 
 
 The features include: 
 
-  fits within the N64 without cutting using the 3-d printed adapter
-  usb port works without disconnecting power from the N64. (useful for software updates)
-  works with the full or part flex cables from the n64adv2 open-source project
-  works with a flex cable from HISPEEDIDO on Ali Express ( https://www.aliexpress.us/item/3256805571419579.html?spm=5261.ProductManageOnline.0.0.33212ddbdJ53Tz&gatewayAdapt=glo2usa4itemAdapt )
-  passes PIF and Reset and hdmi CEC signals to gpio pins via in-line resistors, 
-  passes 5V power to the HDMI port and pullup resistors to 5V are added for SCL and SDA.
-  all resistors and resistor networks are large enough for hand-soldering by DIYers, 
+    fits within the N64 without cutting using the 3-d printed adapter
+    
+    usb port works without disconnecting power from the N64. (useful for software updates)
+    
+    works with the full or part flex cables from the n64adv2 open-source project
   
-  This is created in KiCad 6.0.11 and the project files are included.
+    works with a flex cable from HISPEEDIDO on Ali Express ( https://www.aliexpress.us/item/3256805571419579.html?spm=5261.ProductManageOnline.0.0.33212ddbdJ53Tz&gatewayAdapt=glo2usa4itemAdapt )
+  
+    passes PIF and Reset and hdmi CEC signals to gpio pins via in-line resistors
+  
+    passes 5V power to the HDMI port and pullup resistors to 5V are added for SCL and SDA
+  
+    all resistors and resistor networks are large enough for hand-soldering by DIYers
+  
+  
+This is created in KiCad 6.0.11 and the project files are included.
 
 ![PicoDVI-N64_PCB-Front](https://github.com/dalogue1/PicoDVI-N64_PCB/assets/133064876/229bf70d-1fcd-4e96-a488-81059325d73f)
 
