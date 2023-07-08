@@ -25,7 +25,7 @@ The features include:
     
     Connects HDMI CEC signal to gpio pin 22 via a 0k resistor
 
-    Implements equivalent of PicoDVI-Sock to connect HDMI 
+    Implements equivalent of PicoDVI-Sock by Wren6991 to connect HDMI 
   
     Passes 5V power to the HDMI port via a 0k resistor
 
