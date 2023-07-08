@@ -9,7 +9,7 @@ It includes everything needed in a board that can be ordered from jlcpcb for $2 
 
 The features include: 
 
-    Fits securely within the N64 without cutting using a no-cut 3D printed adapter from the n64adv2 project
+    Fits securely within the N64 without cutting using a no-cut 3D printed adapter from the n64adv2_pcb project
     
     USB port works without disconnecting power from the N64. (useful for software updates)
     
