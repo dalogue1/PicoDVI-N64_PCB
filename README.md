@@ -19,9 +19,9 @@ The features include:
 
     Both flex cable connections use FFC sockets
   
-    Connects PIF and Reset signals to gpio pins 20 and 21 directly for the n64adv2 flex cable
+    Connects PIF Control and Reset signals to gpio pins 20 and 21 directly for the n64adv2 flex cable
     
-    Connects PIF and Reset signals to gpio pins 20 and 21 via 47 ohm in-line resistors for the HISPEEDIDO flex cable
+    Connects PIF Control and Reset signals to gpio pins 20 and 21 via 47 ohm in-line resistors for the HISPEEDIDO flex cable
     
     Connects HDMI CEC signal to gpio pin 22 via a 0k resistor
   
