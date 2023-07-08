@@ -42,6 +42,8 @@ The zip for the Gerber Files is provided.
 
 The GitHub for PicoDVI-Sock is located at https://github.com/Wren6991/Pico-DVI-Sock
 
+The GitHub for n64adv2 is located at https://github.com/borti4938/n64adv2_pcb
+
 ![PicoDVI-N64_PCB-Front](https://github.com/dalogue1/PicoDVI-N64_PCB/assets/133064876/229bf70d-1fcd-4e96-a488-81059325d73f)
 
 ![PicoDVI-N64_PCB-Back](https://github.com/dalogue1/PicoDVI-N64_PCB/assets/133064876/9ae8b330-6932-4652-8f9d-c9026ffff4cd)
