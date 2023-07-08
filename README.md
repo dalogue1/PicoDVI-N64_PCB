@@ -5,17 +5,19 @@ Project to create a PCB to connect the PicoDVI-N64 project by Konrad Beckmann.
 
 The current status of the board I have made is as follows.  I have created and checked the board many times.  I have ordered it and will be testing it when it arrives. 
 
-It includes everything I know in a board that can be ordered from jlcpcb for $2 for 5.  The remaining parts in the BOM from Mouser will be about $5 plus shipping.  The RPi Pico is separate and either the Pico or Pico-W can be used.  
+It includes everything needed in a board that can be ordered from jlcpcb for $2 for 5.  The remaining parts in the BOM from Mouser will be about $5 plus shipping.  The RPi Pico is separate and either the Pico or Pico-W can be used.  
 
 The features include: 
 
-    Fits within the N64 without cutting using a no-cut 3D printed adapter from the n64adv2 project
+    Fits securely within the N64 without cutting using a no-cut 3D printed adapter from the n64adv2 project
     
     USB port works without disconnecting power from the N64. (useful for software updates)
     
     Works with the full or part flex cables from the n64adv2 open-source project
   
     Works with a flex cable from HISPEEDIDO on AliExpress (link below).
+
+    Both flex cable connections use FFC sockets
   
     Connects PIF and Reset signals to gpio pins 20 and 21 directly for the n64adv2 flex cable
     
