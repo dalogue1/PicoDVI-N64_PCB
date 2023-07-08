@@ -13,7 +13,7 @@ The features include:
     
     USB port works without disconnecting power from the N64. (useful for software updates)
     
-    Works with the full or part flex cables from the n64adv2 open-source project
+    Works with the full or part flex cables from the n64adv2_pcb open-source project
   
     Works with a flex cable from HISPEEDIDO on AliExpress (link below).
 
