@@ -25,7 +25,7 @@ The features include:
   
     Passes 5V power to the HDMI port via a 0k resistor
 
-    Added 2.2k pull-up resistors to 5V are added for HDMI SCL and SDA signals
+    Added 2.2k pull-up resistors to 5V for HDMI SCL and SDA signals
   
     All resistors and resistor networks are large enough for hand-soldering by DIYers
 
