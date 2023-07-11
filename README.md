@@ -1,5 +1,5 @@
 # PicoDVI-N64_PCB
-Project to create a PCB to connect the PicoDVI-N64 project by Konrad Beckmann https://github.com/kbeckmann/PicoDVI-N64.
+Project to create a PCB to connect the [PicoDVI-N64](https://github.com/kbeckmann/PicoDVI-N64) project by Konrad Beckmann.
 
 
 
@@ -7,42 +7,30 @@ The current status of the board I have made is as follows.  I have created and c
 
 It includes everything needed in a board that can be ordered from jlcpcb for $2 for 5.  The remaining parts in the BOM from Mouser will be about $5 plus shipping.  The RPi Pico is separate and either the Pico or Pico-W can be used.  
 
-The features include: 
+## The features include: 
 
-    Fits securely within the N64 without cutting using a no-cut 3D printed adapter from the n64adv2_pcb project
-    
-    USB port works without disconnecting power from the N64. (useful for software updates)
-    
-    Works with the full or part flex cables from the n64adv2_pcb open-source project
-  
-    Works with a flex cable from HISPEEDIDO on AliExpress (link below).
+- Fits securely within the N64 without cutting using a no-cut 3D printed adapter from the n64adv2_pcb project  
+- USB port works without disconnecting power from the N64. (useful for software updates)
+- Works with the full or part flex cables from the [n64adv2_pcb](https://github.com/borti4938/n64adv2_pcb) open-source project
+- Works with a flex cable from HISPEEDIDO on AliExpress (link below).
+- Both flex cable connections use FFC sockets
+- Connects PIF Control and Reset signals to gpio pins 20 and 21 directly for the n64adv2 flex cable
+- Connects PIF Control and Reset signals to gpio pins 20 and 21 via 47 ohm in-line resistors for the HISPEEDIDO flex cable
+- Connects HDMI CEC signal to gpio pin 22 via a 0k resistor
+- To connect HDMI, it implements equivalent of [Pico-DVI-Sock](https://github.com/Wren6991/Pico-DVI-Sock) by Wren6991
+- Passes 5V power to the HDMI port via a 0k resistor
+- Added 2.2k pull-up resistors to 5V for HDMI SCL and SDA signals
+- All resistors and resistor networks are large enough for hand-soldering by DIYers
 
-    Both flex cable connections use FFC sockets
-  
-    Connects PIF Control and Reset signals to gpio pins 20 and 21 directly for the n64adv2 flex cable
-    
-    Connects PIF Control and Reset signals to gpio pins 20 and 21 via 47 ohm in-line resistors for the HISPEEDIDO flex cable
-    
-    Connects HDMI CEC signal to gpio pin 22 via a 0k resistor
+## Additional information: 
 
-    Implements equivalent of Pico-DVI-Sock by Wren6991 to connect HDMI
-    
-    Passes 5V power to the HDMI port via a 0k resistor
-
-    Added 2.2k pull-up resistors to 5V for HDMI SCL and SDA signals
-  
-    All resistors and resistor networks are large enough for hand-soldering by DIYers
-
-The HISPEEDIDO flex cable is available for $12 (free shipping) at  
-https://www.aliexpress.us/item/3256805571419579.html?spm=5261.ProductManageOnline.0.0.33212ddbdJ53Tz&gatewayAdapt=glo2usa4itemAdapt 
-  
-This project is created in KiCad 6.0.11 and the project files are included. I have not yet created the associated schematic but plan to make one.
+This project is created in KiCad 6.0.11 and the project files are included.
 
 The zip for the Gerber Files is provided.
 
-The GitHub for Pico-DVI-Sock is located at https://github.com/Wren6991/Pico-DVI-Sock
+The [HISPEEDIDO flex cable](https://www.aliexpress.us/item/3256805571419579.html?spm=5261.ProductManageOnline.0.0.33212ddbdJ53Tz&gatewayAdapt=glo2usa4itemAdapt) is available for $12 (free shipping) from AliExpress  
 
-The GitHub for n64adv2_pcb is located at https://github.com/borti4938/n64adv2_pcb
+
 
 ![PicoDVI-N64_PCB-Front](https://github.com/dalogue1/PicoDVI-N64_PCB/assets/133064876/229bf70d-1fcd-4e96-a488-81059325d73f)
 
