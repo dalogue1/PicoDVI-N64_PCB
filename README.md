@@ -5,7 +5,7 @@ Project to create a PCB to connect the [PicoDVI-N64](https://github.com/kbeckman
 
 The current status of the board I have made is as follows.  I have created and checked the board many times.  I have ordered it and will be testing it when it arrives. 
 
-It includes everything needed in a board that can be ordered from jlcpcb for $2 for five.  The remaining parts in the BOM from Mouser will be about $5 plus shipping.  The RPi Pico is separate and either the Pico or Pico-W can be used.  
+It includes everything needed in a board that can be ordered from jlcpcb for $2 for five.  The remaining parts in the BOM from Mouser will be about $5 plus shipping.  The RPi Pico or Pico-W is a separate cost.  
 
 ## The features include: 
 
@@ -25,9 +25,7 @@ It includes everything needed in a board that can be ordered from jlcpcb for $2 
 
 ## Additional information: 
 
-This project is created in KiCad 6.0.11 and the project files are included.
-
-The zip for the Gerber Files is provided.
+This project is created in KiCad 6.0.11 and the project files are included. The zip for the Gerber Files is provided as well.
 
 
 ![PicoDVI-N64_PCB-Front](https://github.com/dalogue1/PicoDVI-N64_PCB/assets/133064876/229bf70d-1fcd-4e96-a488-81059325d73f)
