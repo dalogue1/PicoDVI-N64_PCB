@@ -20,7 +20,7 @@ It includes everything needed in a PCB that can be ordered from jlcpcb for $2 fo
 - Connects the HDMI CEC signal to gpio pin 22 via a 0k resistor
 - To connect HDMI, it implements the equivalent of the [Pico-DVI-Sock](https://github.com/Wren6991/Pico-DVI-Sock) by Wren6991
 - Passes 5V power to the HDMI port via a 0k resistor
-- Added 2.2k pull-up resistors to 5V for HDMI SCL and SDA signals
+- Adds 2.2k pull-up resistors to 5V for HDMI SCL and SDA signals
 - All resistors and resistor networks are large enough for hand-soldering by DIYers
 
 ## Additional information: 
