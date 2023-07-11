@@ -12,10 +12,11 @@ It includes everything needed in a board that can be ordered from jlcpcb for $2 
 - Fits securely within the N64 without cutting using a no-cut 3D printed adapter from the n64adv2_pcb project  
 - USB port works without disconnecting power from the N64. (useful for software updates)
 - Works with the full or part flex cables from the [n64adv2_pcb](https://github.com/borti4938/n64adv2_pcb) open-source project
-- Works with a flex cable from HISPEEDIDO on AliExpress (link below).
+- Works with a $12 flex cable from [HISPEEDIDO](https://www.aliexpress.us/item/3256805571419579.html?spm=5261.ProductManageOnline.0.0.33212ddbdJ53Tz&gatewayAdapt=glo2usa4itemAdapt) on AliExpress.
 - Both flex cable connections use FFC sockets
-- Connects PIF Control and Reset signals to gpio pins 20 and 21 directly for the n64adv2 flex cable
-- Connects PIF Control and Reset signals to gpio pins 20 and 21 via 47 ohm in-line resistors for the HISPEEDIDO flex cable
+- Connects PIF Control and Reset signals to gpio pins 20 and 21
+  - directly for the n64adv2 flex cable
+  - via 47 ohm in-line resistors for the HISPEEDIDO flex cable
 - Connects HDMI CEC signal to gpio pin 22 via a 0k resistor
 - To connect HDMI, it implements equivalent of [Pico-DVI-Sock](https://github.com/Wren6991/Pico-DVI-Sock) by Wren6991
 - Passes 5V power to the HDMI port via a 0k resistor
@@ -27,9 +28,6 @@ It includes everything needed in a board that can be ordered from jlcpcb for $2 
 This project is created in KiCad 6.0.11 and the project files are included.
 
 The zip for the Gerber Files is provided.
-
-The [HISPEEDIDO flex cable](https://www.aliexpress.us/item/3256805571419579.html?spm=5261.ProductManageOnline.0.0.33212ddbdJ53Tz&gatewayAdapt=glo2usa4itemAdapt) is available for $12 (free shipping) from AliExpress.  
-
 
 
 ![PicoDVI-N64_PCB-Front](https://github.com/dalogue1/PicoDVI-N64_PCB/assets/133064876/229bf70d-1fcd-4e96-a488-81059325d73f)
