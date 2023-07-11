@@ -17,7 +17,7 @@ It includes everything needed in a board that can be ordered from jlcpcb for $2 
 - Connects PIF Control and Reset signals to gpio pins 20 and 21
   - directly for the n64adv2 flex cable
   - via 47 ohm in-line resistors for the HISPEEDIDO flex cable
-- Connects HDMI CEC signal to gpio pin 22 via a 0k resistor
+- Connects the HDMI CEC signal to gpio pin 22 via a 0k resistor
 - To connect HDMI, it implements equivalent of [Pico-DVI-Sock](https://github.com/Wren6991/Pico-DVI-Sock) by Wren6991
 - Passes 5V power to the HDMI port via a 0k resistor
 - Added 2.2k pull-up resistors to 5V for HDMI SCL and SDA signals
