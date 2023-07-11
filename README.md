@@ -28,7 +28,7 @@ This project is created in KiCad 6.0.11 and the project files are included.
 
 The zip for the Gerber Files is provided.
 
-The [HISPEEDIDO flex cable](https://www.aliexpress.us/item/3256805571419579.html?spm=5261.ProductManageOnline.0.0.33212ddbdJ53Tz&gatewayAdapt=glo2usa4itemAdapt) is available for $12 (free shipping) from AliExpress  
+The [HISPEEDIDO flex cable](https://www.aliexpress.us/item/3256805571419579.html?spm=5261.ProductManageOnline.0.0.33212ddbdJ53Tz&gatewayAdapt=glo2usa4itemAdapt) is available for $12 (free shipping) from AliExpress.  
 
 
 
