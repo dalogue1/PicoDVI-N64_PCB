@@ -9,9 +9,9 @@ It includes everything needed in a board that can be ordered from jlcpcb for $2 
 
 ## The features include: 
 
-- Fits securely within the N64 without cutting using a no-cut 3D printed adapter from the n64adv2_pcb project  
+- Fits securely within the N64 without cutting using a no-cut 3D printed adapter from the [n64adv2_pcb](https://github.com/borti4938/n64adv2_pcb) open-source project  
 - USB port works without disconnecting power from the N64. (useful for software updates)
-- Works with the full or part flex cables from the [n64adv2_pcb](https://github.com/borti4938/n64adv2_pcb) open-source project
+- Works with the full or part flex cables from the n64adv2_pcb project
 - Works with a $12 flex cable from [HISPEEDIDO](https://www.aliexpress.us/item/3256805571419579.html?spm=5261.ProductManageOnline.0.0.33212ddbdJ53Tz&gatewayAdapt=glo2usa4itemAdapt) on AliExpress.
 - Both flex cable connections use FFC sockets
 - Connects PIF Control and Reset signals to gpio pins 20 and 21
