@@ -3,7 +3,7 @@ Project to create a PCB to connect the [PicoDVI-N64](https://github.com/kbeckman
 
 
 
-The current status of the board I have made is as follows.  I have created and checked the board many times.  I have ordered it and will be testing it when it arrives. 
+The current status of the board I have made is as follows.  I have created and checked the board many times.  I have ordered it and will be testing it when it arrives. I will post installation photos and instructions when possible.
 
 It includes everything needed in a PCB that can be ordered from jlcpcb for $2 for five boards.  The remaining parts in the BOM from Mouser will be about $5 plus shipping.  The RPi Pico or Pico-W is a separate cost.  
 
