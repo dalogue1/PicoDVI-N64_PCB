@@ -18,7 +18,7 @@ It includes everything needed in a PCB that can be ordered from jlcpcb for $2 fo
   - directly for the n64adv2 flex cable
   - via 47 ohm in-line resistors for the HISPEEDIDO flex cable
 - Connects the HDMI CEC signal to gpio pin 22 via a 0k resistor
-- To connect HDMI, it implements the equivalent of the [Pico-DVI-Sock](https://github.com/Wren6991/Pico-DVI-Sock) by Luke Wren.
+- To connect HDMI, the PCB implements the equivalent of the [Pico-DVI-Sock](https://github.com/Wren6991/Pico-DVI-Sock) by Luke Wren.
 - Passes 5V power to the HDMI port via a 0k resistor
 - Adds 2.2k pull-up resistors to 5V for HDMI SCL and SDA signals
 - All resistors and resistor networks are large enough for hand-soldering by DIYers
