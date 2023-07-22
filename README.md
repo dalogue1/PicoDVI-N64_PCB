@@ -27,10 +27,9 @@ It includes everything needed in a PCB that can be ordered from jlcpcb for $2 fo
 
 This project is created in KiCad 6.0.11 and the project files are included. The zip for the Gerber Files is provided as well.
 
+![image](https://github.com/dalogue1/PicoDVI-N64_PCB/assets/133064876/9315e3da-7bc9-433b-8e38-e10323c88f16)
 
-![PicoDVI-N64_PCB-Front](https://github.com/dalogue1/PicoDVI-N64_PCB/assets/133064876/229bf70d-1fcd-4e96-a488-81059325d73f)
-
-![PicoDVI-N64_PCB-Back](https://github.com/dalogue1/PicoDVI-N64_PCB/assets/133064876/9ae8b330-6932-4652-8f9d-c9026ffff4cd)
+![image](https://github.com/dalogue1/PicoDVI-N64_PCB/assets/133064876/763a6812-2a31-4b81-8f16-87e49d605c8b)
 
 Test fit of an early version of the board
 
