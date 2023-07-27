@@ -31,6 +31,6 @@ This project is created in KiCad 6.0.11 and the project files are included. The 
 
 ![image](https://github.com/dalogue1/PicoDVI-N64_PCB/assets/133064876/763a6812-2a31-4b81-8f16-87e49d605c8b)
 
-Test fit of an early version of the board
+Test fit of an early version of the board.  The new version of the board has much smaller overlap to work with other versions of the N64 motherboard with wider screw mounts.  Also, the flex cable needed additional space.
 
 ![N64_PCB_Fit](https://github.com/dalogue1/PicoDVI-N64_PCB/assets/133064876/a9b3f396-81b1-41a5-92eb-939396d21952)
