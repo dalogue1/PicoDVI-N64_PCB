@@ -27,6 +27,10 @@ It includes everything needed in a PCB that can be ordered from jlcpcb for $2 fo
 
 This project is created in KiCad 6.0.11 and the project files are included. The zip for the Gerber Files is provided as well.
 
+After some initial testing, it appears as if the termination resistors on the part flex or on the HISPEEDIDO flex need to be replaced with 0 ohm resistors.  More investigation will be done to determine why because without the resistors the n64adv2 flex would be incompatible with the N64 RGM Mod.  Possibly 33 ohm resistor pack may work.  Further testing will be made to determine what are the best resistor packs to put on the flex cable.
+
+Modifications have been made to the PCB to attempt to allow it to fit in varying N64 versions without cutting.  If anyone has difficulty with the PCB not fitting please let me know in the PicoDVI-N64 Discord chat or in a PM in Discord. 
+
 ![image](https://github.com/dalogue1/PicoDVI-N64_PCB/assets/133064876/9315e3da-7bc9-433b-8e38-e10323c88f16)
 
 ![image](https://github.com/dalogue1/PicoDVI-N64_PCB/assets/133064876/763a6812-2a31-4b81-8f16-87e49d605c8b)
