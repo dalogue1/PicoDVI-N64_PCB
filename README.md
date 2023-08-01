@@ -29,11 +29,11 @@ This project is created in KiCad 6.0.11 and the project files are included. The 
 
 After some initial testing, it appears as if the termination resistors on the part flex or on the HISPEEDIDO flex need to be replaced with 0 ohm resistors.  More investigation will be done to determine why because without the resistors the n64adv2 flex would be incompatible with the N64 RGB Mod.  Possibly 33 ohm resistor packs may work.  Further testing will be made to determine what are the best resistor packs to put on the flex cable.
 
-Modifications have been made to the PCB to attempt to allow it to fit in varying N64 versions without cutting.  If anyone has difficulty with the PCB not fitting please let me know in the PicoDVI-N64 Discord chat or in a PM to @dalogue in Discord. 
+Modifications have been made to the PCB to attempt to allow it to fit in varying N64 versions without cutting.  If anyone has difficulty with the PCB not fitting please let me know in the PicoDVI-N64 Discord chat or in a PM to @dalogue in Discord.
 
-![image](https://github.com/dalogue1/PicoDVI-N64_PCB/assets/133064876/9315e3da-7bc9-433b-8e38-e10323c88f16)
+![PicoDVI-N64_PCB-Front](https://github.com/dalogue1/PicoDVI-N64_PCB/assets/133064876/febf28a8-e9df-4b44-a28a-578e1b2b2d29)
 
-![image](https://github.com/dalogue1/PicoDVI-N64_PCB/assets/133064876/763a6812-2a31-4b81-8f16-87e49d605c8b)
+![PicoDVI-N64_PCB-Back](https://github.com/dalogue1/PicoDVI-N64_PCB/assets/133064876/be7cd166-1c3c-4c83-8c34-6b221039ceb5)
 
 Test fit of an early version of the board.  The new version of the board has much smaller overlap to work with other versions of the N64 motherboard with wider screw mounts.  Also, the flex cable needed additional space.  The board should be connected to the case with a piece of the 3M double stick tape. (same method used by the HISPEEDIDO adapter)
 
